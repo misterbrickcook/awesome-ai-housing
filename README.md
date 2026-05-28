@@ -15,6 +15,7 @@ The intersection of artificial intelligence and housing is growing fast — from
 - [Property Valuation](#property-valuation)
 - [Smart Building / IoT](#smart-building--iot)
 - [Cost Accounting](#cost-accounting)
+- [Tenant Screening & Fraud Detection](#tenant-screening--fraud-detection)
 - [Research Papers](#research-papers)
 - [PropTech Companies](#proptech-companies)
 
@@ -67,6 +68,7 @@ The intersection of artificial intelligence and housing is growing fast — from
 - [PropTechOS](https://proptechos.com/) — Open smart building platform providing a unified API layer to connect building systems, enabling AI-driven analytics across portfolios.
 - [Honeywell Connected Buildings](https://www.honeywell.com/us/en/press/2025/06/honeywell-unveils-ai-powered-building-management-solution) — AI-powered building management integrating remote monitoring, predictive maintenance, and energy tracking.
 - [Autodesk Forma](https://www.autodesk.com/products/forma) — AI-powered generative design platform optimizing site planning by analyzing terrain, wind, sunlight, noise, and zoning data.
+- [Willow Digital Twins](https://www.willowinc.com/) — Digital twin platform for real estate portfolios using AI to optimize building operations, occupancy planning, and sustainability performance.
 
 ## Cost Accounting
 
@@ -75,6 +77,12 @@ The intersection of artificial intelligence and housing is growing fast — from
 - [immocloud](https://www.immocloud.de/nebenkostenabrechnung/) — Property management platform automating Nebenkostenabrechnung with calculation, distribution keys, and tenant letter generation.
 - [objego](https://objego.de/) — German proptech enabling private landlords to create utility cost allocations, manage expenses digitally, and prepare tax returns.
 - [Doozer](https://www.doozer.de/) — SaaS platform digitizing residential renovation projects, reducing apartment refurbishment planning from weeks to under 60 minutes.
+
+## Tenant Screening & Fraud Detection
+
+- [Naborly](https://naborly.com/) — AI-powered tenant screening platform using machine learning to assess rental applications with risk scoring and fraud detection.
+- [Snappt](https://www.snappt.com/) — AI document fraud detection for rental applications, analyzing bank statements and pay stubs to identify fabricated documents.
+- [RentPrep](https://www.rentprep.com/) — Automated tenant background screening combining credit, criminal, and eviction data with ML-based risk assessment.
 
 ## Research Papers
 
